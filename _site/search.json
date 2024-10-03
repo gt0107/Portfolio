@@ -21,20 +21,6 @@
     "text": "About this blog"
   },
   {
-    "objectID": "docs/index.html",
-    "href": "docs/index.html",
-    "title": "Welcome to My Documentation",
-    "section": "",
-    "text": "This is the home page of my documentation stored in the docs folder.\n\n\nHere’s some basic text describing this section.\n\n\nMore detailed information can go here."
-  },
-  {
-    "objectID": "docs/index.html#section-title",
-    "href": "docs/index.html#section-title",
-    "title": "Welcome to My Documentation",
-    "section": "",
-    "text": "Here’s some basic text describing this section.\n\n\nMore detailed information can go here."
-  },
-  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
