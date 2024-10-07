@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Geraline Trossi-Torres",
     "section": "",
-    "text": "ABOUT\nMy name is Geraline Trossi-Torres, I’m a PhD student in Microbiology, Molecular Biology and Biochemistry at the University of Idaho. When not doing research I enjoy playing on my XBOX S or reading a good fantasy and Sci-fi books.\nRESEARCH INTEREST\n\nChlamydia Research\nHello\nwhatsap"
+    "text": "ABOUT\nMy name is Geraline Trossi-Torres, I’m a PhD student in Microbiology, Molecular Biology and Biochemistry at the University of Idaho. When not doing research I enjoy playing on my XBOX S or reading a good fantasy and Sci-fi books.\nRESEARCH INTEREST"
   },
   {
     "objectID": "about.html",
@@ -19,6 +19,13 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV would be here"
   },
   {
     "objectID": "posts/post-with-code/index.html",
