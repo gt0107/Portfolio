@@ -16,7 +16,7 @@ website:
       - href: publications.qmd
         text: Publications
       - href: CV.qmd
-        text: CV
+        text: Curriculum Vitae
     
     right:
       - icon: github

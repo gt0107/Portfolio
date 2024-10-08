@@ -1,6 +1,5 @@
 
-# My Curriculum Vitae
 
-You can view my CV below:
+**You can view my CV below:**
 
 <iframe src="images/CV_Geraline_New_version.pdf" width="800" height="1000" style="border: none;"></iframe>
