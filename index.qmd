@@ -4,6 +4,7 @@ about:
   template: jolla
   image-width: 20em
   image-shape: round
+  image: images/Trossi-Torres_Geraline.jpg
   links:
     - icon: linkedin
       text: LinkedIn
