@@ -9,8 +9,6 @@ website:
     type: overlay
   navbar:
     left:
-      - href: index.qmd
-        text: About
       - href: research.qmd
         text: Research
       - href: publications.qmd
@@ -19,6 +17,8 @@ website:
         text: Curriculum Vitae
     
     right:
+      - href: index.qmd
+        text: About
       - icon: github
         href: https://github.com/gt0107/
       - icon: linkedin
