@@ -27,7 +27,7 @@ website:
 format:
   html:
     theme:
-      light: cosmo
+      light: superhero
       dark: darkly
     css: styles.css
 
