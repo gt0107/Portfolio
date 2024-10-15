@@ -3,7 +3,7 @@
     "path": "~/Portfolio/research.qmd",
     "project_path": "research.qmd",
     "type": "quarto_markdown",
-    "hash": "1541608299",
+    "hash": "2253922505",
     "contents": "",
     "dirty": false,
     "created": 1729003339212.0,
@@ -17,15 +17,16 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2:0",
-        "cursorPosition": "0,0",
-        "scrollLine": "0"
+        "cursorPosition": "15,112",
+        "scrollLine": "4",
+        "ignored_words": "trachomatis,Grieshaber's,stressor\n"
     },
     "folds": "",
-    "lastKnownWriteTime": 1729005074,
+    "lastKnownWriteTime": 1729007076,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1729005074447,
+    "last_content_update": 1729007076014,
     "read_only": false,
     "read_only_alternatives": []
 }

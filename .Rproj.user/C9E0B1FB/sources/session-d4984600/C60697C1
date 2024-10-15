@@ -3,7 +3,7 @@
     "path": "~/Portfolio/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "1832794366",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1728406413056.0,
@@ -16,7 +16,7 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "3,259",
+        "cursorPosition": "3,166",
         "scrollLine": "0",
         "rmdVisualModeLocation": "2:0"
     },
