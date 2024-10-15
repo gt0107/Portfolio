@@ -13,6 +13,6 @@ Understanding the mechanism of α-crystallin, which increases light scattering, 
 
 This was a collaborative research project, in where we evaluated the influence of genetic variants on the inflammatory response and the severity of asthma in Puerto Ricans. I had the experience of working with patient recruitment and did different lab techniques under the IRB and HIPPAA protocols (e.g., blood work assays). This research presented insight into how asthma affects Puerto Ricans at a genetic level and provided insight to study this problem further to develop an adjuvant therapy.
 
-### Understand the mechanism of calcium sulfide (CaS) nanoclusters in a pancreatic cancer (Mia Paca-2 cell line)
+### Understand the mechanism of calcium sulfide (CaS) nanoclusters in pancreatic cancer (Mia Paca-2 cell line)
 
 In this project, we investigated the effects of CaS nanoclusters on the proliferation and migration of this cell line. Identifying more effective therapeutic methods is essential for enhancing the treatment of this type of cancer. The use of nanoparticles in biomedical applications is now a viable option in treating cancer. I performed various protocols to determine the migration and proliferation of the Mia Paca-2 cell line. This treatment can represent an innovation in cancer therapeutics.
