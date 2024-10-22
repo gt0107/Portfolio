@@ -1,14 +1,14 @@
 {
-    "id": "394D12D2",
-    "path": "~/Portfolio/index.qmd",
-    "project_path": "index.qmd",
+    "id": "D3BD899F",
+    "path": "~/Portfolio/research.qmd",
+    "project_path": "research.qmd",
     "type": "quarto_markdown",
-    "hash": "605052323",
+    "hash": "3483804369",
     "contents": "",
     "dirty": false,
-    "created": 1727996869568.0,
+    "created": 1729003339212.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 7,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,17 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "21,314",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "189:0"
+        "rmdVisualModeLocation": "2:0",
+        "cursorPosition": "2,577",
+        "scrollLine": "3",
+        "ignored_words": "trachomatis,Grieshaber's,stressor\n"
     },
     "folds": "",
-    "lastKnownWriteTime": 1729202129,
+    "lastKnownWriteTime": 1729566528,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1729202129127,
+    "last_content_update": 1729566528270,
     "read_only": false,
     "read_only_alternatives": []
 }
